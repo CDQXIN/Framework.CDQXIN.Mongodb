@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.CDQXIN.Mongodb", "Framework.CDQXIN.Mongodb\Framework.CDQXIN.Mongodb.csproj", "{BA17064C-F13A-4958-8282-C4099D7223FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.CDQXIN.ConsoleTest", "Framework.CDQXIN.ConsoleTest\Framework.CDQXIN.ConsoleTest.csproj", "{F4F69735-A2F7-43DD-BDCA-DD22B3EB1CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.CDQXIN.MongodbEx1", "Framework.CDQXIN.MongodbEx1\Framework.CDQXIN.MongodbEx1.csproj", "{7299014B-C975-4AA5-AC22-E5F9F72AFE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.CDQXIN.MongodbEx2", "Framework.CDQXIN.MongodbEx2\Framework.CDQXIN.MongodbEx2.csproj", "{C6A68B79-0A7E-4177-8C6B-895821006656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA17064C-F13A-4958-8282-C4099D7223FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA17064C-F13A-4958-8282-C4099D7223FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA17064C-F13A-4958-8282-C4099D7223FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA17064C-F13A-4958-8282-C4099D7223FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F69735-A2F7-43DD-BDCA-DD22B3EB1CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F69735-A2F7-43DD-BDCA-DD22B3EB1CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F69735-A2F7-43DD-BDCA-DD22B3EB1CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F69735-A2F7-43DD-BDCA-DD22B3EB1CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7299014B-C975-4AA5-AC22-E5F9F72AFE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7299014B-C975-4AA5-AC22-E5F9F72AFE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7299014B-C975-4AA5-AC22-E5F9F72AFE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7299014B-C975-4AA5-AC22-E5F9F72AFE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A68B79-0A7E-4177-8C6B-895821006656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A68B79-0A7E-4177-8C6B-895821006656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A68B79-0A7E-4177-8C6B-895821006656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A68B79-0A7E-4177-8C6B-895821006656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83093698-6A2F-4FD4-A0C4-887E70E92484}
+	EndGlobalSection
+EndGlobal

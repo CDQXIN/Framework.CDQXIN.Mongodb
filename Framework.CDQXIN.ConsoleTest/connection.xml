@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConnectionString>
+  <SqlConn>
+    <DB>server=*;database=*;user id=*;password=*;min pool size=4;max pool size=1024;</DB>
+  </SqlConn>
+  <MongoConn>
+    <DB>mongodb://127.0.0.1:27017</DB>
+  </MongoConn>
+</ConnectionString>
